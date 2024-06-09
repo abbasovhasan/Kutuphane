@@ -1,0 +1,14 @@
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\bin\Debug\net8.0\OOP_LibraryTask.exe
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\bin\Debug\net8.0\OOP_LibraryTask.deps.json
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\bin\Debug\net8.0\OOP_LibraryTask.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\bin\Debug\net8.0\OOP_LibraryTask.dll
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\bin\Debug\net8.0\OOP_LibraryTask.pdb
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\OOP_LibraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\OOP_LibraryTask.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\OOP_LibraryTask.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\OOP_LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\OOP_LibraryTask.dll
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\refint\OOP_LibraryTask.dll
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\OOP_LibraryTask.pdb
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\OOP_LibraryTask.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\C#\OOP_LibraryTask\OOP_LibraryTask\obj\Debug\net8.0\ref\OOP_LibraryTask.dll
